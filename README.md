@@ -44,7 +44,7 @@ https://www.kaggle.com/nicholasnisopoli/song-popularity-prediction/data
 
 **4. Relationship between the Feature-set**
 
-![image](https://user-images.githubusercontent.com/54996245/145609094-b6694318-ee2a-41a5-9443-994254d252a3.png)
+![image](https://user-images.githubusercontent.com/54996245/145626525-b34ae81d-ea66-46c3-8b62-ea5fba8775bc.png)
 
 **5. Data Retention after preforming preprocessing step**
 
