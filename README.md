@@ -52,7 +52,7 @@ https://www.kaggle.com/nicholasnisopoli/song-popularity-prediction/data
 
 **6. Correlation Plot**
   
-![image](https://user-images.githubusercontent.com/54996245/145609142-9ef46d7d-1f6b-49b5-a370-6bb39c1d8a2f.png)
+![image](https://user-images.githubusercontent.com/54996245/145626386-090029e6-9aec-48ad-804e-f37ac2e0d2c1.png)
 
 **7. Feature Selection/Extraction - VIF, RFE & PCA Techniques:
 
@@ -63,7 +63,7 @@ https://www.kaggle.com/nicholasnisopoli/song-popularity-prediction/data
 
 **8. Multiple Linear Regression Prediction & Residual Normality Check**
   
-![image](https://user-images.githubusercontent.com/54996245/145609387-4b565d34-7a13-426d-bbc6-ebe256c401f1.png)
+![image](https://user-images.githubusercontent.com/54996245/145626263-903f493e-e304-488a-862e-54567af25eac.png)
 
 **9. Polynomial Degrees Comparison**
 
